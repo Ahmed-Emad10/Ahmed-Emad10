@@ -1,5 +1,3 @@
-<p align="center">![killua-anime](https://user-images.githubusercontent.com/65132004/141194196-5a0375ad-dd55-4c99-b195-44b6bdcc3fdc.gif)</p>
-
 <h1 align="center"> Hi 👋, I'm Ahmed Emad</h1>
 <h3 align="center">Undergraduate Software Engineer</h3>
 
