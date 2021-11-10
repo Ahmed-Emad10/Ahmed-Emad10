@@ -1,4 +1,4 @@
-<p><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fkillua-godspeed-gifs&psig=AOvVaw0z7GSrmHJq4xc-e1gDWB2P&ust=1636664417538000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCYipvYjvQCFQAAAAAdAAAAABAD" alt="killua" /></p>
+
 <h1 align="center"> Hi 👋, I'm Ahmed Emad</h1>
 <h3 align="center">Undergraduate Software Engineer</h3>
 
