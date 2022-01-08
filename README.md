@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Ahmed Emad</h1>
 <p align="center">
-  
+  <img src ="killua-anime.gif">
 </p>
 <h3 align="center">Undergraduate Software Engineer</h3>
 
