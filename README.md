@@ -112,3 +112,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/Ahmed-Emad10/Ahmed-Emad10/output/snake.svg" alt="Snake animation" />
+
+###
